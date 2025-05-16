@@ -24,15 +24,16 @@ Crie um notebook chamado GerenciadorLista_Colab.ipynb com este conteúdo:
 
 # *Execute os passos abaixo para testar:*
 
-# Passo 1: Clonar o repositório
+## Passo 1: Clonar o repositório
 
-# Execute este código em uma célula:
+### Execute este código em uma célula:
 !git clone https://github.com/brubsant/gerenciador-lista_alura.git
 %cd gerenciador-lista_alura
 !ls  # Verifique os arquivos
 
 # Passo 2: Instalar dependências (se houver)
-!pip install -r requirements.txt  # Ou !pip install colorama
+!pip install colorama
+!pip install google-genai
 
 # Passo 3: Executar o programa
 !python gerenciador_lista.py
