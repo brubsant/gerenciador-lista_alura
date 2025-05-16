@@ -31,13 +31,12 @@ Este projeto foi feito para ser usado no Google Colab, um ambiente online e grat
 
 Para testar o codigo segue o passo a passo abaixo:
 
-1.  **Clique nesse botão:** Vá diretamente para o ambiente de teste do colab, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brubsant/gerenciador-lista_alura/blob/main/gerenciador_lista_alura.ipynb)
+ **Clique nesse botão:** Vá diretamente para o ambiente de teste do colab, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brubsant/gerenciador-lista_alura/blob/main/gerenciador_lista_alura.ipynb)
 
-2.  **Crie um Novo Notebook:** Clique em `Arquivo` > `Novo notebook`.
-3.  **Copie o Código:** Copie todo o código Python do arquivo `.py` deste projeto.
-4.  **Cole no Colab:** Cole o código em uma célula de código vazia no seu novo notebook.
-5.  **Execute!** Clique no botão de "play" (▶️) ao lado da célula ou pressione `Ctrl+Enter` (ou `Cmd+Enter` no Mac).
-6.  **Interaja:** O chatbot começará a rodar logo abaixo da célula, e você poderá digitar os comandos!
+ #Lembrando 
+Para poder rodar o código no colba você precisa ter uma chave API do google studio, para conseguir realizar este teste.
+
+Irei deixar no repositorio outro arquivo mostrando como criar chave de acesso no google studio.
 
 ## 📸 Veja em Ação!
 
