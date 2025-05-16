@@ -9,7 +9,7 @@ Bem-vindo(a) ao projeto Lista de Compras! Este é um chatbot simples e divertido
 
 ## 👋 Sobre o Projeto
 
-Cansado de esquecer o que precisa comprar no mercado? Ou de se perder entre o que já pegou e o que ainda falta? 🙋‍♀️🙋‍♂️
+Cansado de esquecer o que precisa comprar no mercado? Ou de se perder entre o que ainda falta? 🙋‍♀️🙋‍♂️
 
 Este chatbot foi criado para resolver esses probleminhas de forma interativa e simpática. Ele funciona como um assistente pessoal para suas compras, permitindo que você:
 
