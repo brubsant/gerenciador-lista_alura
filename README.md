@@ -21,7 +21,6 @@ Este chatbot foi criado para resolver esses probleminhas de forma interativa e s
 
 * **Adicionar Itens à Lista:** Diga o que você quer comprar, e o bot anota!
 * **Controle de Quantidades:** Especifique quantos de cada item você precisa.
-* **Marcar Itens no Carrinho:** "Peguei!" - Avise o bot o que já está no seu carrinho, e ele te ajuda a não perder a conta.
 * **Remover Itens da Lista:** Mudou de ideia sobre um produto? Sem problemas!
 * **Visualização Clara:** Veja sua lista completa, com indicação do que já foi pego e o que ainda falta.
 * **Interface Amigável:** Comandos simples e emojis para deixar tudo mais divertido! 😄
