@@ -33,10 +33,11 @@ Para testar o codigo segue o passo a passo abaixo:
 
  **Clique nesse botão:** Vá diretamente para o ambiente de teste do colab, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brubsant/gerenciador-lista_alura/blob/main/gerenciador_lista_alura.ipynb)
 
-## Lembrando 
-Para poder rodar o código no colba você precisa ter uma chave API do google studio, para conseguir realizar este teste.
+## 🔔 Só um lembrete:
 
-Irei deixar no repositorio outro arquivo mostrando como criar chave de acesso no google studio.
+Para rodar o código no Colab, você vai precisar de uma chave de API do Google Studio. Isso é necessário para conseguir realizar o teste.
+
+Vou deixar um arquivo no repositório com o passo a passo de como criar a chave de acesso no Google Studio. 😊
 
 ## 📸 Veja em Ação!
 
