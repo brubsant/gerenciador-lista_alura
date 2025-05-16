@@ -31,7 +31,10 @@ Este chatbot foi criado para resolver esses probleminhas de forma interativa e s
 
 Este projeto foi feito para ser usado no Google Colab, um ambiente online e gratuito para rodar código Python.
 
-1.  **Acesse o Google Colab:** Vá para [colab.research.google.com](https://colab.research.google.com).
+Para testar o codigo no inicio do documento README , terá um botão escrito OPEN COLAB
+
+1.  **Clique nesse botão:** Vá diretamente para o ambiente de teste do colab, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brubsant/gerenciador-lista_alura/blob/main/gerenciador_lista_alura.ipynb)
+
 2.  **Crie um Novo Notebook:** Clique em `Arquivo` > `Novo notebook`.
 3.  **Copie o Código:** Copie todo o código Python do arquivo `.py` deste projeto.
 4.  **Cole no Colab:** Cole o código em uma célula de código vazia no seu novo notebook.
