@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/gerenciador-lista_alura/blob/main/GerenciadorLista_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brubsant/gerenciador-lista_alura/blob/main/GerenciadorLista_Colab.ipynb)
 
 
 # 🛒 Gerenciador de Lista de Compras - Alura  
