@@ -22,15 +22,14 @@
 
 Crie um notebook chamado GerenciadorLista_Colab.ipynb com este conteúdo:
 
-# # 🛒 Gerenciador de Lista de Compras
-# [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/gerenciador-lista_alura/blob/main/GerenciadorLista_Colab.ipynb)
-# 
 # *Execute os passos abaixo para testar:*
 
-# %% [code]
 # Passo 1: Clonar o repositório
-!git clone https://github.com/seu-usuario/gerenciador-lista_alura.git
+
+# Execute este código em uma célula:
+!git clone https://github.com/brubsant/gerenciador-lista_alura.git
 %cd gerenciador-lista_alura
+!ls  # Verifique os arquivos
 
 # Passo 2: Instalar dependências (se houver)
 !pip install -r requirements.txt  # Ou !pip install colorama
