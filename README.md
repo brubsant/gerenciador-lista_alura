@@ -14,7 +14,6 @@ Cansado de esquecer o que precisa comprar no mercado? Ou de se perder entre o qu
 Este chatbot foi criado para resolver esses probleminhas de forma interativa e simpática. Ele funciona como um assistente pessoal para suas compras, permitindo que você:
 
 * Adicione itens que precisa comprar.
-* Marque os itens que já colocou no seu carrinho de compras físico 🛒.
 * Remova itens da lista caso mude de ideia.
 * Veja sua lista completa a qualquer momento, com o status de cada item!
 
