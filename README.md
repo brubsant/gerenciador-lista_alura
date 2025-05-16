@@ -29,7 +29,7 @@ Este chatbot foi criado para resolver esses probleminhas de forma interativa e s
 
 Este projeto foi feito para ser usado no Google Colab, um ambiente online e gratuito para rodar código Python.
 
-Para testar o codigo no inicio do documento README , terá um botão escrito OPEN COLAB
+Para testar o codigo segue o passo a passo abaixo:
 
 1.  **Clique nesse botão:** Vá diretamente para o ambiente de teste do colab, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brubsant/gerenciador-lista_alura/blob/main/gerenciador_lista_alura.ipynb)
 
