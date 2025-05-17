@@ -39,6 +39,9 @@ Para rodar o código no Colab, você vai precisar de uma chave de API do Google 
 
 Vou deixar um arquivo no repositório com o passo a passo de como criar a chave de acesso no Google Studio. 😊
 
+![Demonstrando o Projeto](https://github.com/brubsanto/seu-repositorio/blob/main/imagem.gif)
+
+
 ## 📸 Veja em Ação!
 
 *(Aqui seria um ótimo lugar para colocar um print de tela ou um GIF mostrando o chatbot funcionando!)*
