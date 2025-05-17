@@ -53,7 +53,7 @@ Para começar, além de criar sua chave de API no Google AI, é necessário habi
 
 Gostaria de compartilhar com vocês uma demonstração de como o chatbot 🤖 funciona. Espero que gostem!
 
-![gif](assets/demo.gif)
+
 
 
 
