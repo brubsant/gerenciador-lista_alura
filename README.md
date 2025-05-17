@@ -37,9 +37,9 @@ Para testar o codigo segue o passo a passo abaixo:
 
 Para rodar o código no Colab, você vai precisar de uma chave de API do Google Studio. Isso é necessário para conseguir realizar o teste.
 
-Vou deixar um arquivo no repositório com o passo a passo de como criar a chave de acesso no Google Studio. 😊
+Confira o passo a passo no vídeo abaixo para aprender como gerar sua chave de API. Você pode se cadastrar facilmente com sua conta Google! 😊
 
-![Demo do Programa](assets/Google-AI-Studio-_-API-Gemin.gif)
+![gif](assets/Google-AI-Studio-_-API-Gemin.gif)
 
 
 ## 📸 Veja em Ação!
