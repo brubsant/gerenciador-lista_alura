@@ -5,7 +5,7 @@
 *por Bruna Santos*
 
 Bem-vindo(a) ao projeto Lista de Compras! Este é um chatbot simples e divertido, feito em Python e pensado para rodar no Google Colab, que te ajuda a organizar e otimizar suas compras e não esquecer nenhum item. É tão fácil de usar que até uma criança de 10 anos consegue! 🎉
-![Demo do Programa](assets/demo.gif)
+
 
 ## 👋 Sobre o Projeto
 
