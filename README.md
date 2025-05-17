@@ -40,12 +40,12 @@ https://aistudio.google.com/welcome
 
 Confira o passo a passo no vídeo abaixo para aprender como gerar sua chave de API. Você pode se cadastrar facilmente com sua conta Google! 😊
 
-![gif](assets/Google-AI-studio-API.gif)
+![gif_IA](assets/Google-AI-studio-API.gif)
 
 Para começar, além de criar sua chave de API no Google AI, é necessário habilitá-la no Colab para poder realizar os testes. Para te ajudar, criei um vídeo explicativo mostrando como fazer todo esse processo. Confira abaixo!
 
 
-![gif](assets/Habilitando-chave-no-colab.gif)
+![gif_colab](assets/Habilitando-chave-no-colab.gif)
 
 
 
