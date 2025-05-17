@@ -44,7 +44,7 @@ Confira o passo a passo no vídeo abaixo para aprender como gerar sua chave de A
 
 ## 📸 Veja em Ação!
 
-*(Aqui seria um ótimo lugar para colocar um print de tela ou um GIF mostrando o chatbot funcionando!)*
+Gostaria de compartilhar com vocês uma demonstração de como o chatbot 🤖 funciona. Espero que gostem!
 
 **Exemplo de interação:**
 
