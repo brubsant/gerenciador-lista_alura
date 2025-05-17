@@ -44,6 +44,8 @@ Confira o passo a passo no vídeo abaixo para aprender como gerar sua chave de A
 
 Para começar, além de criar sua chave de API no Google AI, é necessário habilitá-la no Colab para poder realizar os testes. Para te ajudar, criei um vídeo explicativo mostrando como fazer todo esse processo. Confira abaixo!
 
+![gif](assets/Habilitando-chave-no-colab.gif)
+
 
 ## 📸 Veja em Ação!
 
